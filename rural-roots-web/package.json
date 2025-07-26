@@ -1,0 +1,22 @@
+{
+  "name": "rural-roots-web",
+  "version": "1.0.0",
+  "description": "A web project aimed at reconnecting individuals with their rural roots and maintaining ties with farmers.",
+  "main": "src/index.html",
+  "scripts": {
+    "start": "live-server src"
+  },
+  "keywords": [
+    "rural",
+    "agriculture",
+    "migration",
+    "community",
+    "local"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
